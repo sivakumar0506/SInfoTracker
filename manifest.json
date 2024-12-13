@@ -1,0 +1,13 @@
+{
+    "manifest_version":3,
+    "version":"1.0",
+    "name":"sInfoTrack",
+    "action":{
+        "default_popup":"1ChromeExtension.html",
+        "default_icon":"sInfoTrack.png"
+    }
+    ,
+    "permissions":[
+        "tabs"
+    ]
+}
